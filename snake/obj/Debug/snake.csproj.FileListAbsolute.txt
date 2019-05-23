@@ -1,0 +1,8 @@
+E:\Scoala\snake\snake\bin\Debug\snake.exe
+E:\Scoala\snake\snake\bin\Debug\snake.pdb
+E:\Scoala\snake\snake\obj\Debug\ResolveAssemblyReference.cache
+E:\Scoala\snake\snake\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Scoala\snake\snake\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Scoala\snake\snake\obj\Debug\snake.csproj.GenerateResource.Cache
+E:\Scoala\snake\snake\obj\Debug\snake.exe
+E:\Scoala\snake\snake\obj\Debug\snake.pdb
